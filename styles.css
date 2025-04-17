@@ -1,0 +1,186 @@
+body{
+    background-color: rgb(3, 40, 87);
+}
+
+.logo{
+    position: relative;
+}
+
+.about-clinic{
+    position: relative;
+    left: 30%;
+    bottom: 40px;
+    background-color: transparent;
+    color: white;
+    padding: none;
+    border: none;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.medical-specialties{
+    position: relative;
+    left: 40%;
+    bottom: 40px;
+    background-color: transparent;
+    color: white;
+    border: none;
+    padding: none;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.medical-exams{
+    position: relative;
+    left: 50%;
+    bottom: 40px;
+    background-color: transparent;
+    color: white;
+    border: none;
+    padding: none;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    position: relative;
+    left: 45%;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.img_medical_service img{
+    position: relative;
+    width: 500px;
+    left: 100px;
+    top: 50px;
+}
+
+.img_tests img{
+    position: relative;
+    height: 333px;
+    left: 700px;
+    top: 40px;
+}
+
+.paragraph_one{
+   position: relative;
+   left: 50%;
+   bottom: 250px;
+   color: white;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: large;
+   max-width: 500px;
+}
+
+.paragraph_two{
+    position: relative;
+    left: 10%;
+    bottom: 250px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    max-width: 500px;
+}
+
+.title_medical_service{
+   position: relative;
+   left: 55%;
+   bottom: 300px;
+   color: white;
+}
+
+.title_tests{
+    position: relative;
+    left: 20%;
+    bottom: 300px;
+    color: white;
+}
+
+.img_female_doctor{
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+
+.img_nurse{
+    position: relative;
+    left: 650px;
+    top: 20px;
+}
+
+.img_doctor{
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+
+.subtitle_female_doctor{
+    position: relative;
+    top: 40px;
+    left: 100px;
+    color: white;
+}
+
+.subtitle_nurse{
+    position: relative;
+    top: 10px;
+    left: 650px;
+    color: white;
+}
+
+.subtitle_doctor{
+    position: relative;
+    top: 5px;
+    left: 100px;
+    color: white;
+}
+
+footer{
+    width: 100%;
+    background-color: none;
+}
+
+.sentence_form{
+    color: white;
+    text-align: center;
+    
+}
+
+.title_form{
+    color: white;
+    text-align: center;
+}
+
+.form_name{
+    color: white;
+    padding: 5px;
+    text-align: center;
+    bottom: 0;
+}
+
+.form_email{
+    color: white;
+    padding: 5px;
+    text-align: center;
+    bottom: 0;
+}
+
+.form_city{
+    color: white;
+    padding: 5px;
+    text-align: center;
+    bottom: 0;
+}
+
+.form_state{
+    color: white;
+    padding: 5px;
+    text-align: center;
+    bottom: 0;
+}
+
+.form_button{
+    padding: 5px;
+    text-align: center;
+}
